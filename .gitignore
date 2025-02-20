@@ -1,0 +1,11 @@
+# vivado unnecessary files
+/designs/vivado_2022.2/DMA_Example/DMA_Example.cache
+/designs/vivado_2022.2/DMA_Example/**.log
+/designs/vivado_2022.2/ip_repo/_failed_attempts
+
+# vitis unnecessary files
+/designs/vitis_2022.2/.metadata
+/designs/vitis_2022.2/.analytics
+/designs/vitis_2022.2/notes.md
+/designs/vitis_2022.2/**.log
+/designs/vitis_2022.2/DMA_Example_platform/*.log

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="DMA_Example_IRQ_memorysafe" location="D:/Yannos/FILES/PROGRAMS/FPGA/SoC/DMA_Example/designs/vitis_2022.2/DMA_Example_IRQ_memorysafe" platform="D:/Yannos/FILES/PROGRAMS/FPGA/SoC/DMA_Example/designs/vitis_2022.2/DMA_Example_platform/export/DMA_Example_platform/DMA_Example_platform.xpfm" platformUID="xilinx:cora-z7-07s::0.0(custom)" systemProject="DMA_Example_IRQ_memorysafe_system" sysConfig="DMA_Example_platform" runtime="C/C++" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="ed9865ff7259ca8d5bf510ea2d7adbf5">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.37344405">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.935369706" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

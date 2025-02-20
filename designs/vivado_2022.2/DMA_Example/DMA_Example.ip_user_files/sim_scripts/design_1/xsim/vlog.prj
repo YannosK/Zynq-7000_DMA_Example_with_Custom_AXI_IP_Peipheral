@@ -1,0 +1,20 @@
+verilog xil_defaultlib --include "C:/Xilinx/Vivado/2022.2/data/xilinx_vip/include" --include "../../../../DMA_Example.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../DMA_Example.gen/sources_1/bd/design_1/ipshared/ee60/hdl" \
+"../../../bd/design_1/ip/design_1_processing_system7_0_1/sim/design_1_processing_system7_0_1.v" \
+"../../../bd/design_1/ip/design_1_xbar_1/sim/design_1_xbar_1.v" \
+"../../../bd/design_1/ip/design_1_xlconcat_0_0/sim/design_1_xlconcat_0_0.v" \
+
+sv xil_defaultlib --include "C:/Xilinx/Vivado/2022.2/data/xilinx_vip/include" --include "../../../../DMA_Example.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../DMA_Example.gen/sources_1/bd/design_1/ipshared/ee60/hdl" \
+"../../../bd/design_1/ipshared/edit_opposite_int32_v1_0.srcs/sources_1/new/opposites_int32_t.sv" \
+
+verilog xil_defaultlib --include "C:/Xilinx/Vivado/2022.2/data/xilinx_vip/include" --include "../../../../DMA_Example.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../DMA_Example.gen/sources_1/bd/design_1/ipshared/ee60/hdl" \
+"../../../bd/design_1/ipshared/7238/hdl/opposite_int32_v1_0.v" \
+"../../../bd/design_1/ip/design_1_opposite_int32_0_0/sim/design_1_opposite_int32_0_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../bd/design_1/ip/design_1_auto_us_0/sim/design_1_auto_us_0.v" \
+"../../../bd/design_1/ip/design_1_auto_us_1/sim/design_1_auto_us_1.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" \
+"../../../bd/design_1/sim/design_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
