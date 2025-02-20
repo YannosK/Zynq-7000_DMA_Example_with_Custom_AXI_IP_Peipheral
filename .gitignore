@@ -1,7 +1,16 @@
 # vivado unnecessary files
 /designs/vivado_2022.2/DMA_Example/DMA_Example.cache
+/designs/vivado_2022.2/DMA_Example/.Xil
 /designs/vivado_2022.2/DMA_Example/**.log
+/designs/vivado_2022.2/DMA_Example/**.jou
+/designs/vivado_2022.2/DMA_Example/**.str
 /designs/vivado_2022.2/ip_repo/_failed_attempts
+/designs/vivado_2022.2/ip_repo/opposite_int32/.Xil
+/designs/vivado_2022.2/ip_repo/opposite_int32/edit_opposite_int32_v1_0.cache
+/designs/vivado_2022.2/ip_repo/opposite_int32/**.log
+/designs/vivado_2022.2/ip_repo/opposite_int32/**.jou
+/designs/vivado_2022.2/ip_repo/opposite_int32/**.jou
+/designs/vivado_2022.2/ip_repo/opposite_int32/**.str
 
 # vitis unnecessary files
 /designs/vitis_2022.2/.metadata
