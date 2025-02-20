@@ -1,88 +1,117 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <wave_config>
-	<wave_state>
-	</wave_state>
-	<db_ref_list>
-		<db_ref path="D:/Yannos/FILES/PROGRAMS/FPGA/SoC/DMA_Example/designs/vivado_2022.2/DMA_Example/DMA_Example.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1" type="auto">
-			<top_modules>
-				<top_module name="top">
-				</top_module>
-			</top_modules>
-		</db_ref>
-	</db_ref_list>
-	<WVObjectSize size="12">
-	</WVObjectSize>
-	<wvobject fp_name="design_1_i/axi_dma_0_M_AXIS_MM2S_TREADY" type="logic" db_ref_id="1">
-		<obj_property name="ElementShortName">design_1_i/axi_dma_0_M_AXIS_MM2S_TREADY</obj_property>
-		<obj_property name="ObjectShortName">axi_dma_0_M_AXIS_MM2S_TREADY</obj_property>
-		<obj_property name="DisplayName">FullPathName</obj_property>
-		<obj_property name="Radix">HEXRADIX</obj_property>
-	</wvobject>
-	<wvobject fp_name="design_1_i/axi_dma_0_M_AXIS_MM2S_TDATA" type="array" db_ref_id="1">
-		<obj_property name="ElementShortName">design_1_i/axi_dma_0_M_AXIS_MM2S_TDATA[31:0]</obj_property>
-		<obj_property name="ObjectShortName">axi_dma_0_M_AXIS_MM2S_TDATA[31:0]</obj_property>
-		<obj_property name="DisplayName">FullPathName</obj_property>
-		<obj_property name="Radix">HEXRADIX</obj_property>
-	</wvobject>
-	<wvobject fp_name="design_1_i/&lt;const1&gt;_1" type="logic" db_ref_id="1">
-		<obj_property name="ElementShortName">design_1_i/&lt;const1&gt;_1</obj_property>
-		<obj_property name="ObjectShortName">&lt;const1&gt;_1</obj_property>
-		<obj_property name="DisplayName">FullPathName</obj_property>
-		<obj_property name="Radix">HEXRADIX</obj_property>
-	</wvobject>
-	<wvobject fp_name="design_1_i/&lt;const1&gt;_2" type="logic" db_ref_id="1">
-		<obj_property name="ElementShortName">design_1_i/&lt;const1&gt;_2</obj_property>
-		<obj_property name="ObjectShortName">&lt;const1&gt;_2</obj_property>
-		<obj_property name="DisplayName">FullPathName</obj_property>
-		<obj_property name="Radix">HEXRADIX</obj_property>
-	</wvobject>
-	<wvobject fp_name="design_1_i/&lt;const1&gt;_3" type="logic" db_ref_id="1">
-		<obj_property name="ElementShortName">design_1_i/&lt;const1&gt;_3</obj_property>
-		<obj_property name="ObjectShortName">&lt;const1&gt;_3</obj_property>
-		<obj_property name="DisplayName">FullPathName</obj_property>
-		<obj_property name="Radix">HEXRADIX</obj_property>
-	</wvobject>
-	<wvobject fp_name="design_1_i/&lt;const1&gt;" type="logic" db_ref_id="1">
-		<obj_property name="ElementShortName">design_1_i/&lt;const1&gt;</obj_property>
-		<obj_property name="ObjectShortName">&lt;const1&gt;</obj_property>
-		<obj_property name="DisplayName">FullPathName</obj_property>
-		<obj_property name="Radix">HEXRADIX</obj_property>
-	</wvobject>
-	<wvobject fp_name="design_1_i/axi_dma_0_M_AXIS_MM2S_TVALID" type="logic" db_ref_id="1">
-		<obj_property name="ElementShortName">design_1_i/axi_dma_0_M_AXIS_MM2S_TVALID</obj_property>
-		<obj_property name="ObjectShortName">axi_dma_0_M_AXIS_MM2S_TVALID</obj_property>
-		<obj_property name="DisplayName">FullPathName</obj_property>
-		<obj_property name="Radix">HEXRADIX</obj_property>
-	</wvobject>
-	<wvobject fp_name="design_1_i/axi_dma_0_M_AXIS_MM2S_TLAST" type="logic" db_ref_id="1">
-		<obj_property name="ElementShortName">design_1_i/axi_dma_0_M_AXIS_MM2S_TLAST</obj_property>
-		<obj_property name="ObjectShortName">axi_dma_0_M_AXIS_MM2S_TLAST</obj_property>
-		<obj_property name="DisplayName">FullPathName</obj_property>
-		<obj_property name="Radix">HEXRADIX</obj_property>
-	</wvobject>
-	<wvobject fp_name="design_1_i/&lt;const0&gt;_1" type="logic" db_ref_id="1">
-		<obj_property name="ElementShortName">design_1_i/&lt;const0&gt;_1</obj_property>
-		<obj_property name="ObjectShortName">&lt;const0&gt;_1</obj_property>
-		<obj_property name="DisplayName">FullPathName</obj_property>
-		<obj_property name="Radix">HEXRADIX</obj_property>
-	</wvobject>
-	<wvobject fp_name="design_1_i/axi_dma_0_M_AXIS_MM2S_TKEEP" type="array" db_ref_id="1">
-		<obj_property name="ElementShortName">design_1_i/axi_dma_0_M_AXIS_MM2S_TKEEP[3:0]</obj_property>
-		<obj_property name="ObjectShortName">axi_dma_0_M_AXIS_MM2S_TKEEP[3:0]</obj_property>
-		<obj_property name="DisplayName">FullPathName</obj_property>
-		<obj_property name="Radix">HEXRADIX</obj_property>
-	</wvobject>
-	<wvobject fp_name="design_1_i/&lt;const0&gt;_2" type="logic" db_ref_id="1">
-		<obj_property name="ElementShortName">design_1_i/&lt;const0&gt;_2</obj_property>
-		<obj_property name="ObjectShortName">&lt;const0&gt;_2</obj_property>
-		<obj_property name="DisplayName">FullPathName</obj_property>
-		<obj_property name="Radix">HEXRADIX</obj_property>
-	</wvobject>
-	<wvobject fp_name="design_1_i/&lt;const0&gt;" type="logic" db_ref_id="1">
-		<obj_property name="ElementShortName">design_1_i/&lt;const0&gt;</obj_property>
-		<obj_property name="ObjectShortName">&lt;const0&gt;</obj_property>
-		<obj_property name="DisplayName">FullPathName</obj_property>
-		<obj_property name="Radix">HEXRADIX</obj_property>
-	</wvobject>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/Yannos/FILES/PROGRAMS/FPGA/SoC/DMA_Example/designs/vivado_2022.2/DMA_Example/DMA_Example.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0"></ZoomStartTime>
+      <ZoomEndTime time="12"></ZoomEndTime>
+      <Cursor1Time time="0"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="300"></NameColumnWidth>
+      <ValueColumnWidth column_width="147"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="design_1_i/axi_dma_0_M_AXIS_MM2S_TREADY" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/axi_dma_0_M_AXIS_MM2S_TREADY</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXIS_MM2S_TREADY</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/axi_dma_0_M_AXIS_MM2S_TDATA" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/axi_dma_0_M_AXIS_MM2S_TDATA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXIS_MM2S_TDATA[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/&lt;const1&gt;_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/&lt;const1&gt;_1</obj_property>
+      <obj_property name="ObjectShortName">&lt;const1&gt;_1</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/&lt;const1&gt;_2" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/&lt;const1&gt;_2</obj_property>
+      <obj_property name="ObjectShortName">&lt;const1&gt;_2</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/&lt;const1&gt;_3" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/&lt;const1&gt;_3</obj_property>
+      <obj_property name="ObjectShortName">&lt;const1&gt;_3</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/&lt;const1&gt;" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/&lt;const1&gt;</obj_property>
+      <obj_property name="ObjectShortName">&lt;const1&gt;</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/axi_dma_0_M_AXIS_MM2S_TVALID" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/axi_dma_0_M_AXIS_MM2S_TVALID</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXIS_MM2S_TVALID</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/axi_dma_0_M_AXIS_MM2S_TLAST" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/axi_dma_0_M_AXIS_MM2S_TLAST</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXIS_MM2S_TLAST</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/&lt;const0&gt;_1" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/&lt;const0&gt;_1</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_1</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/axi_dma_0_M_AXIS_MM2S_TKEEP" type="array">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/axi_dma_0_M_AXIS_MM2S_TKEEP[3:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_dma_0_M_AXIS_MM2S_TKEEP[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/&lt;const0&gt;_2" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/&lt;const0&gt;_2</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_2</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/&lt;const0&gt;" type="logic">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">design_1_i/&lt;const0&gt;</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
 </wave_config>
-
